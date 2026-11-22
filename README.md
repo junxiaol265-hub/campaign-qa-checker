@@ -2,6 +2,8 @@
 
 An Excel portfolio demo for checking campaign and ad names and statuses against editable rules. It uses synthetic records and has formulas for 500 input rows.
 
+[Download the Excel workbook](./campaign-qa-checker.xlsx?raw=true)
+
 ## How it works
 
 - **Checks** accepts a record type, name, and status in columns A–C, rows 5–504.
